@@ -1,0 +1,34 @@
+.page-title{
+    color: skyblue;
+    background-color: #ff000070;
+    background-color: #00ff0030;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.recipe-list{
+    color: skyblue;
+    background-color: #ff000070;
+    background-color: #00ff0030;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* #sanji{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    height:300px;
+    width:300px;
+    border: 5px solid #ff000070;
+} */
+
+#sanji{
+    display: block;
+    text-align: center;
+    max-width: 100%;
+    max-height: 100%;
+}
